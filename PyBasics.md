@@ -5,3 +5,11 @@
 
 
 ## [dataframe.pipe(func,*argu)](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.pipe.html)
+Apply func on DataFrame
+
+## [pandas.DataFrame.clip](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.clip.html)
+DataFrame.clip(lower=None, upper=None, axis=None, inplace=False, *args, **kwargs)\
+Trim values at input threshold(s).
+
+
+## 
