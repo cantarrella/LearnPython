@@ -12,4 +12,6 @@ DataFrame.clip(lower=None, upper=None, axis=None, inplace=False, *args, **kwargs
 Trim values at input threshold(s).
 
 
-## 
+## Show all the ouput in a cell at jupyter
+from IPython.core.interactiveshell import InteractiveShell\
+InteractiveShell.ast_node_interactivity = "all"
