@@ -15,3 +15,7 @@ Trim values at input threshold(s).
 ## Show all the ouput in a cell at jupyter
 from IPython.core.interactiveshell import InteractiveShell\
 InteractiveShell.ast_node_interactivity = "all"
+
+
+## gc.collect()
+garbage collection. "Del" only delete the variable name. After delete, use gc.collect() to release unreferenced memories.
