@@ -19,3 +19,11 @@ InteractiveShell.ast_node_interactivity = "all"
 
 ## gc.collect()
 garbage collection. "Del" only delete the variable name. After delete, use gc.collect() to release unreferenced memories.
+
+
+## pd.melt and pd.pivot and pd.pivot_table
+https://deparkes.co.uk/2016/10/28/reshape-pandas-data-with-melt/
+
+https://hackernoon.com/reshaping-data-in-python-fa27dda2ff77
+
+
